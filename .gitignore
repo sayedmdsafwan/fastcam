@@ -1,0 +1,14 @@
+# build output
+/target
+
+# installer output (built by FastCam.iss)
+/installer
+
+# local junk
+*.pdb
+*.log
+Thumbs.db
+desktop.ini
+
+# local AI-assistant notes, not part of the app
+AGENTS.md
