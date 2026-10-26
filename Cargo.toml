@@ -1,7 +1,10 @@
 [package]
 name = "fastcam"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+description = "A tiny, fast webcam app for Windows: live preview, photos and MP4 video with microphone audio"
+repository = "https://github.com/sayedmdsafwan/fastcam"
+license = "MIT"
 
 [dependencies]
 image = { version = "0.25", default-features = false, features = ["jpeg"] }

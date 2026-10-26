@@ -8,6 +8,7 @@ runtime dependencies.
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/rust-2024%20edition-DEA584?logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Size](https://img.shields.io/badge/exe-~1%20MB-blue)](#)
+[![License: MIT](https://img.shields.io/badge/license-MIT-3da638)](LICENSE)
 
 FastCam does one thing and does it quickly: open the camera, show the picture, take photos and
 record video. No Electron, no GPU pipeline, no installer that wants 300 MB of disk.
@@ -144,3 +145,8 @@ FastCam.iss          Inno Setup installer script
 
 Issues and pull requests are welcome. Please keep changes small and focused: FastCam values speed
 and a dependency list you can read.
+
+## License
+
+Released under the [MIT License](LICENSE) — free to use, modify and share, with attribution.
+Copyright © 2026 Md. Safwan.
